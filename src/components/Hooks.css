@@ -5,7 +5,7 @@
     align-items: center;
 }
 .incBtn, .decBtn{
-    padding: 0.5rem 1rem;
+    padding: 0.2rem 1.5rem;
     background-color: rgb(56, 56, 56);
     border-radius: 10px;
     border: 1px solid gray;
