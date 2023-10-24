@@ -1,10 +1,13 @@
 import './App.css';
 import UseState from './components/UseState';
 import './components/Hooks.css'
+import UseStateObject from './components/UseStateObject';
+
 function App() {
   return (
     <div className="App">
-      <UseState />
+      {/* <UseState /> */}
+      <UseStateObject />
     </div>
   );
 }
