@@ -5,6 +5,8 @@ import UseStateObject from './components/UseStateObject';
 import UseEffect from './components/UseEffect';
 import ClearUpUseEffect from './components/ClearUpUseEffect';
 import ReducerHook from './components/ReducerHook';
+import UseRef from './components/UseRef';
+import UseRef1 from './components/UseRef1';
 
 function App() {
   return (
@@ -13,7 +15,9 @@ function App() {
       {/* <UseStateObject /> */}
       {/* <UseEffect /> */}
       {/* <ClearUpUseEffect /> */}
-      <ReducerHook />
+      {/* <ReducerHook /> */}
+      {/* <UseRef /> */}
+      <UseRef1 />
     </div>
   );
 }
