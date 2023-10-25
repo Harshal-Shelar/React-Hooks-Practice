@@ -7,6 +7,7 @@ import ClearUpUseEffect from './components/ClearUpUseEffect';
 import ReducerHook from './components/ReducerHook';
 import UseRef from './components/UseRef';
 import UseRef1 from './components/UseRef1';
+import Props1 from './components/props/Props1';
 
 function App() {
   return (
@@ -17,7 +18,8 @@ function App() {
       {/* <ClearUpUseEffect /> */}
       {/* <ReducerHook /> */}
       {/* <UseRef /> */}
-      <UseRef1 />
+      {/* <UseRef1 /> */}
+      <Props1 />
     </div>
   );
 }
