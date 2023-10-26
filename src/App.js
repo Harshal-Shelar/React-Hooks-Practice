@@ -8,6 +8,7 @@ import ReducerHook from './components/ReducerHook';
 import UseRef from './components/UseRef';
 import UseRef1 from './components/UseRef1';
 import Props1 from './components/props/Props1';
+import Parent from './components/UseContext/Parent';
 
 function App() {
   return (
@@ -19,7 +20,8 @@ function App() {
       {/* <ReducerHook /> */}
       {/* <UseRef /> */}
       {/* <UseRef1 /> */}
-      <Props1 />
+      {/* <Props1 /> */}
+      <Parent />
     </div>
   );
 }
